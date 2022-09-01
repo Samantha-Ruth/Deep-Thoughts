@@ -6,17 +6,23 @@ The goal of this project was to utilize the MERN stack to create social media ap
 
 In this project, I learned how to: 
 
-Maunally read and write to the Apollo Client Cache
-Configure a MERN app to deploy to Heroku.
-Integrate Apollo Server GraphQL libary to handle data requests
-Build both query type definitions and resolvers for retrieiving data from a MongoDB databse
-Use Apollo Studio Explorer interfact to test GraphQL queriies
-Use GraphQL mutations to handle updates to a databse.
-Sign and verify JSON WEb Tokens as part of the authentication process
-Use Apollo Client library to consume GraphQL APIs on the front end
-Use Routes and Route components to set up client-side routing
-Implement login funtionality and user=based navication in React. 
-Learned how to use an npm packaged called concurrently to run both React and GraphQL from the same command line. 
+* Use GraphQL and to integrate Apollo Server GraphQL libary to handle data requests
+* How to use Apollo Studio Explorer interface to test GraphQL queries.
+* How to build both query type definitions and resolvers for retrieving data from a MongoDB database
+* How to use GraphQL mutations to handle updates to said database.
+
+* How to use Apollo Client library to consume GraphQL APIs on the front end
+* How to manually read and write to the Apollo Client Cache
+
+* How to use JSON Web Tokens as part of the authentication process
+
+* How to use the React Router (Routes and Route Components) to set up client-side routing
+* Implement login functionality and user-based navigation in React. 
+
+* Learned how to use an npm packaged called concurrently to run both React and GraphQL from the same command line during development.
+
+* Configure a MERN app to deploy to Heroku.
+
 
 
 ## Table of Contents
