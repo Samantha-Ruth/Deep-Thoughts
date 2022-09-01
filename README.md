@@ -24,12 +24,6 @@ In this project, I learned how to:
 * Configure a MERN app to deploy to Heroku.
 
 
-
-## Table of Contents
-* [Usage](#usage)
-* [Links](#links)
-* [Questions](#questions)
-
 ## Usage
 
 User can view other users thoughts and the reactions of other users. When the user is logged in, they can add thoughts and friends, view all their thoughts on their
