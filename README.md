@@ -23,11 +23,25 @@ In this project, I learned how to:
 
 * Configure a MERN app to deploy to Heroku.
 
-
 ## Usage
 
-User can view other users thoughts and the reactions of other users. When the user is logged in, they can add thoughts and friends, view all their thoughts on their
-profile page, and post reactions to other people's thoughts. 
+User can view other users thoughts and the reactions of other users. 
+
+![HomepageNonLoggedIn](https://user-images.githubusercontent.com/64170123/188034975-97b57818-5d0f-4376-8f84-cad79858e5e8.jpg)
+
+User can sign up and log in.
+
+![SignUp](https://user-images.githubusercontent.com/64170123/188035030-e2080e4e-9a2a-4898-ad91-6086d32c471d.jpg)
+
+![Login](https://user-images.githubusercontent.com/64170123/188035055-b88b13aa-1291-4c91-a422-13c4970326cf.jpg)
+
+When the user is logged in, they can add thoughts and friends, view all their thoughts on their profile page, and post reactions to other people's thoughts. 
+
+![Home](https://user-images.githubusercontent.com/64170123/188034998-6eeb3548-c3ac-46d2-b9c3-82d564567008.jpg)
+
+![Profile](https://user-images.githubusercontent.com/64170123/188035080-13062342-8b66-4117-af2c-a4bbe93852cf.jpg)
+
+![Reactions](https://user-images.githubusercontent.com/64170123/188035103-9bcfa23f-9fc4-4634-8f8b-08e153d7a377.jpg)
 
 ## Links
 
